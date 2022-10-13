@@ -1,6 +1,6 @@
 # translnkte
 
-*Pronounced "translate"*
+*Pronounced "translinktea"*
 
 To start programming, I like to drag the repositories that I have on my desktop
 to a vscode shortcut.
