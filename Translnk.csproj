@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4AEF7706-F653-4387-BD40-216CD49F52C1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>translnkte</RootNamespace>
-    <AssemblyName>translnkte</AssemblyName>
+    <RootNamespace>Translnk</RootNamespace>
+    <AssemblyName>translnk</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="QZN.cs" />
+    <Compile Include="Translnk.cs" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="Shell32">

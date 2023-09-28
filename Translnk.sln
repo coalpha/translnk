@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32611.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "translnkte", "translnkte.csproj", "{4AEF7706-F653-4387-BD40-216CD49F52C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translnk", "Translnk.csproj", "{4AEF7706-F653-4387-BD40-216CD49F52C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
